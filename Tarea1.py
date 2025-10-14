@@ -41,3 +41,4 @@ while current:
     print(current.data, end= "<---")
     current = current.prev
 print("None")
+
