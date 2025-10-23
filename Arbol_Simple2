@@ -1,0 +1,15 @@
+digraph {
+	A [label="Raíz"]
+	B [label=Izquierda]
+	C [label=Derecha]
+	D [label=Derecha]
+	E [label=Perro color=Blue]
+	F [label=Derecha]
+	G [label=Izquierda]
+	A -> B
+	A -> C
+	C -> D
+	B -> E
+	B -> F
+	C -> G
+}
